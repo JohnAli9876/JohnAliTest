@@ -1,0 +1,18 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray VLESS on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "c1c4f1f2-1d03-48c8-81ff-b03a4343d742"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/test"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/JohnAli9876/JohnAliTest",
+    "stack": "container"
+}
